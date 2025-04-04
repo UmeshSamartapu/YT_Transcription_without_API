@@ -1,0 +1,7 @@
+RUN code:
+venv\scripts\activate
+python main.py
+
+
+video URL:
+https://www.youtube.com/shorts/FwNZ4D-wscs
