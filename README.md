@@ -6,7 +6,7 @@
 
 An AI-powered tool that automatically generates text summaries from YouTube videos using OpenAI's Whisper for speech recognition and Facebook's BART for text summarization.
 
-![Workflow Diagram](<img src="assets/WorkFlow.png" width="700"/>)
+![Workflow Diagram](<img src="https://github.com/UmeshSamartapu/YT_Transcription_without_API/assets/WorkFlow.png" width="700"/>)
 
 ## Features ✨
 
