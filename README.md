@@ -71,8 +71,11 @@ python main.py
 ```
 ## Follow the prompts to:
 1.Enter YouTube URL
+
 2.Let the tool process audio download
+
 3.Get automatic transcription
+
 4.Receive generated summary
 
 ## Output files will be saved in:
