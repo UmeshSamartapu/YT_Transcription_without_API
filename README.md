@@ -100,8 +100,9 @@ graph TD
 
 ## License 📄
 Distributed under the MIT License. See LICENSE for more information.
+</br>
 Note: This project is for educational purposes only. Respect content creators' rights and YouTube's terms of service.
-
+```bash
 Key improvements made:
 1. Added proper directory structure visualization
 2. Organized installation steps more clearly
@@ -110,3 +111,4 @@ Key improvements made:
 5. Improved formatting for better readability
 6. Maintained consistent emoji usage
 7. Added clear output locations section
+```
