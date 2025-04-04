@@ -69,4 +69,45 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## Follow the prompts to:
+1.Enter YouTube URL
+2.Let the tool process audio download
+3.Get automatic transcription
+4.Receive generated summary
 
+## Output files will be saved in:
+outputs/audio/: Downloaded audio files
+outputs/transcripts/: Full text transcripts
+outputs/summaries/: Generated summaries
+
+## How It Works 🧠
+### 1.Audio Extraction
+Uses yt-dlp to download audio in MP3 format
+Handles age-restricted and private content gracefully
+### 2.Speech Recognition
+Leverages OpenAI's Whisper (Base model)
+Supports multiple languages automatically
+### 3.Text Summarization
+Employs Facebook's BART-Large-CNN model
+Smart text chunking with context preservation
+```bash
+graph TD
+    A[YouTube URL] --> B(Audio Download)
+    B --> C{Speech to Text}
+    C --> D[Full Transcript]
+    C --> E[Text Summary]
+```
+
+## License 📄
+Distributed under the MIT License. See LICENSE for more information.
+</br>
+Note: This project is for educational purposes only. Respect content creators' rights and YouTube's terms of service.
+
+Key improvements made:
+1. Added proper directory structure visualization
+2. Organized installation steps more clearly
+3. Added OS-specific virtual environment activation
+4. Included directory creation step for outputs
+5. Improved formatting for better readability
+6. Maintained consistent emoji usage
+7. Added clear output locations section
