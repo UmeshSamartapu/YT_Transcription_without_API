@@ -1,0 +1,9 @@
+pytube
+openai-whisper
+transformers
+torch
+yt-dlp
+python-dotenv
+ffmpeg-python
+tf-keras
+sentencepiece
