@@ -79,11 +79,11 @@ python main.py
 4.Receive generated summary
 
 ## Output files will be saved in:
-outputs/audio/: Downloaded audio files
+**outputs/audio/:** Downloaded audio files
 
-outputs/transcripts/: Full text transcripts
+**outputs/transcripts/:** Full text transcripts
 
-outputs/summaries/: Generated summaries
+**outputs/summaries/:** Generated summaries
 
 ## How It Works 🧠
 ### 1.Audio Extraction
