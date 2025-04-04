@@ -80,7 +80,9 @@ python main.py
 
 ## Output files will be saved in:
 outputs/audio/: Downloaded audio files
+
 outputs/transcripts/: Full text transcripts
+
 outputs/summaries/: Generated summaries
 
 ## How It Works 🧠
