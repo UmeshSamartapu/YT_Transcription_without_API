@@ -51,7 +51,7 @@ youtube-summarizer/
 1. Clone repository:
 ```bash
 git clone https://github.com/UmeshSamartapu/YT_Transcription_without_API.git
-cd youtube-summarizer
+cd YT_Transcription_without_API
 ```
 2.Create a Venv
 ```bash
