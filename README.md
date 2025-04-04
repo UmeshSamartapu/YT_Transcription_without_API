@@ -100,7 +100,6 @@ graph TD
 
 ## License 📄
 Distributed under the MIT License. See LICENSE for more information.
-</br>
 Note: This project is for educational purposes only. Respect content creators' rights and YouTube's terms of service.
 
 Key improvements made:
