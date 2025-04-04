@@ -16,6 +16,34 @@ An AI-powered tool that automatically generates text summaries from YouTube vide
 - 💾 Save full transcripts and summaries with metadata
 - ⚡ CPU-only operation (No GPU required)
 
+## Project Structure 📂
+
+```bash
+youtube-summarizer/
+│
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── audio_processor.py
+│   └── text_processor.py
+│
+├── outputs/
+│   ├── audio/          # Downloaded audio files
+│   ├── transcripts/    # Full text transcripts
+│   └── summaries/      # Generated summaries
+│
+├── assets/             # For README images/diagrams
+│   ├── workflow.png
+│   └── terminal-demo.gif
+│
+├── venv/               # Python virtual environment
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
 ## Installation ⚙️
 
 **Prerequisites**: Python 3.8+ and FFmpeg
