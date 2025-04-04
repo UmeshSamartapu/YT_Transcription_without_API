@@ -29,7 +29,7 @@ cd youtube-summarizer
 ```bash
 python -m venv venv
 ```
-3.Enter the environment (Win)
+3.Enter the virtual environment (Win)
 ```bash
 venv\scripts\activate
 ```
