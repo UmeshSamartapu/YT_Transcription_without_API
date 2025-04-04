@@ -22,5 +22,23 @@ An AI-powered tool that automatically generates text summaries from YouTube vide
 
 1. Clone repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-summarizer.git
+git clone https://github.com/UmeshSamartapu/YT_Transcription_without_API.git
 cd youtube-summarizer
+```
+2.Create a Venv
+```bash
+python -m venv venv
+```
+3.Enter the environment (Win)
+```bash
+venv\scripts\activate
+```
+4.Install dependencies
+```bash
+pip install -r requirements.txt
+```
+5.Run the application
+```bash
+python main.py
+```
+
