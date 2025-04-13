@@ -1,0 +1,22 @@
+🔹 Project Name: AI-Powered YouTube Video Summarizer
+🔹 Description: An intelligent tool that automatically converts YouTube videos into text transcripts and generates concise summaries. Powered by OpenAI's Whisper for accurate speech recognition and Facebook's BART for smart summarization, making video content more accessible and digestible.
+
+🔹 Tech Stack:
+- Python 3.8+
+- OpenAI Whisper (Base model)
+- Facebook BART-Large-CNN
+- yt-dlp for audio extraction
+- PyTorch
+- FFmpeg
+
+🔹 Key Features:
+- Automatic audio extraction from YouTube videos
+- High-accuracy speech-to-text transcription
+- Smart text summarization with context preservation
+- Multi-language support
+- CPU-only operation (no GPU required)
+- Clean output organization
+
+🔗 GitHub Repo: https://github.com/UmeshSamartapu/YT_Transcription_without_API
+
+#AI #MachineLearning #Python #OpenAI #Whisper #BART #NLP #TextSummarization #SpeechRecognition #DeepLearning #YouTubeAPI #OpenSource #PyTorch #DataScience #AITools
