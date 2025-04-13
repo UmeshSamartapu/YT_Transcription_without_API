@@ -1,12 +1,10 @@
 # YouTube Video Summarizer 🎥📝
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+![Preview image](https://github.com/UmeshSamartapu/Forecasting_of_Smart_City_Traffic_Patterns_upskillcampus_Edunet_DSML_Internship/blob/main/templates/Smart%20City%20Traffic%20Forecasting%20pic.png)
+
+## Overview
 
 An AI-powered tool that automatically generates text summaries from YouTube videos using OpenAI's Whisper for speech recognition and Facebook's BART for text summarization.
-
-![Workflow Diagram](<img src="https://github.com/UmeshSamartapu/YT_Transcription_without_API/assets/WorkFlow.png" width="700"/>)
 
 ## Features ✨
 
@@ -105,4 +103,25 @@ graph TD
 
 ## License 📄
 Distributed under the MIT License. See LICENSE for more information.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
+
+## Demo 
+### You can watch the ([youtube video](   )) for demo
+<p align="center">
+  <img src="    " />
+</p>  
+
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umeshsamartapu/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/umeshsamartapu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:umeshsamartapu@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/umeshsamartapu/)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FBAD19?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/umeshsamartapu)
+
+---
+
 
